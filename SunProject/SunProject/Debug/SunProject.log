@@ -1,0 +1,14 @@
+﻿  visuals.cpp
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(163): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(164): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(263): warning C4101: 'vn1': unreferenced local variable
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(263): warning C4101: 'vn3': unreferenced local variable
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(263): warning C4101: 'vn2': unreferenced local variable
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(263): warning C4101: 'vx1': unreferenced local variable
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(263): warning C4101: 'vx3': unreferenced local variable
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(267): warning C4101: 'tempface': unreferenced local variable
+c:\users\vasilis\documents\visual studio 2015\projects\sunproject\sunproject\visuals.cpp(263): warning C4101: 'vx2': unreferenced local variable
+  main.cpp
+  Generating Code...
+  SunProject.vcxproj -> C:\Users\vasilis\Documents\Visual Studio 2015\Projects\SunProject\Debug\SunProject.exe
+  SunProject.vcxproj -> C:\Users\vasilis\Documents\Visual Studio 2015\Projects\SunProject\Debug\SunProject.pdb (Partial PDB)
